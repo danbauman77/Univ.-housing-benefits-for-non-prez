@@ -1,2 +1,2 @@
-Univ.-housing-benefits-for-non-prez
+Univ. housing benefits for non-president administrators
 ===================================
